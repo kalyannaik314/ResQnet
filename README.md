@@ -1,1 +1,2 @@
-ResQNet
+ResQNet-Android Application.
+
